@@ -1,0 +1,6 @@
+name = Webform Textarea with html5 attributes
+description = "Text zone"
+package = "Webform"
+dependencies[] = webform
+files[] = webform_textarea_html5.module
+core = 7.x
